@@ -47,7 +47,7 @@ The student builds the MVP of Accountable, a sales CRM for one person, from the 
 - **Maintain:** the student uses the app and adds ideas to `docs/STATUS.md`.
 - **Share:** the student copies the day's documents into a folder of their own in `community_contributions/` and opens a PR ("The day's documents" in `course/for_agents/AGENT_GIT_GUIDE.md`).
 
-The student commits at the end of each stage with `git add .` and `git commit -m` and the message on the slide, such as `"Design: spec.md"`. At the end of the day, `git log --oneline` shows a commit for each stage.
+The prompts and commit commands are in `course/instructions/week1day3.md`. The student commits at the end of each stage with `git add .` and `git commit -m` and the message on the slide, such as `"Design: spec.md"`. At the end of the day, `git log --oneline` shows a commit for each stage.
 
 **Watch out for:**
 
